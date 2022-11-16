@@ -1,1 +1,121 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T08:16:13.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BmnKZWqjm7tUmTfDDdHh" version="20.5.3" type="github"><diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">7ZrLcpswFIafxsvMgAiELIOdpJ3mNnVmOu2mI4MKqgWiQsROn75HIBljsOOMW9cLVrF+HQ66/N9BOB4543R5K3Ce3POIsBGyouXImYwQshFy4I9SXo3i2LUSCxpprRGm9DfRoqXVkkakaAVKzpmkeVsMeZaRULY0LARftMN+cNa+a45j0hGmIWZd9QuNZFKrvms1+gdC48Tc2bZ0T4pNsBaKBEd8sSY51yNnLDiX9ad0OSZMrZ5Zl/q6my29q4EJksl9LvjuptPn8mkpzr7RT5/nwWT69eJMZ3nBrNQT1oOVr2YFigVNGc6gFfzgmZzqHhh/ECaURXf4lZdqBIXE4dy0goQL+hviMYMuGwToFlJvMPJbEVN1pQ4TpICYJzOtTekeK29ZK/UOF1ILIWcM5wWdVeNTSopFTLOAS8lTLZnZ3FDGxpxxAXrGV7O7wSllyqtPRKQQBmNA1j0WcyLM/OsZ2B60c04zWRnMDUbuBJQXIiQF91wxGmfQIXleTz2cB1xEKkszeFyPtF4cwecrh6m1LeZEhonujmihgu9LMP60CtUdevvgrmS51Rf2ym3AKeEpkeIVQswFnjaoRtTXzUVjd/dca8ma1c+NiDVi8Sp140L4oI1YNfnsp4IUWQzPCKsve36E9uTR+A7LUud7IIta3OlgtDY57fh+83aX+O0NT2TKjHHW7Gv37PRMuywochzSLF65zu01yi502nZBlpGmdWajdQDoQafLWD8pLbfVK7VJBwBj2C84U3tSaSZshJwry0Vosq8rt9ejrlW1NaFsbFrT9vusaaN3WxOa2p3bnYqLOSgwRo+pfZoJ+BTLasK1AnuftQzo/SpVfa+sdrbQQ7yCkIyD3VgTsJmJbgoqw/bURWVMldi28mVfWlejhVyTEWZcJ23fCOTOzUGrp2bkajMZDkkCD1Qi2g/Znbw6O3ldJFQS5XPVXsCZooGwv0yuW3DLk8puoHxW5bhmhZdZRCLdjUWo0b7spbWFxx5lA4dJKcitGv7E16P8Ygy6d91+s951izlq13KTdR2Yvlruv7+U788LGng5gJfzgZfj8WKfBDDOAMwBwLgDMEd8wPxfYCaPHx9uu28OHxUjueAxnIiLPSzjDe8Qp/IOYVmeZ1n/4h3CZPE3HHwS7xTnQ8k/oORfDCX/IGK8ncSc4juFO/ByAC/+wMvxePnP7xSTx4fr7glpzNOcEQmL/7ZbLofT0amcjuzgyr5G//B05HineDryhmp/QLW3rZ0AD+X+LWQudyJzisejiwGYQ4CxB2COB8xpfOfqD8QcQszu/8IPxPzdR8zxiIFm8wulKnTth17O9R8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-16T08:34:16.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fhun3QiMqywrLtmiKrYj" version="20.5.3" type="github">
+  <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
+    <mxGraphModel dx="972" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UViB7DaRL3VD-0iQ_Dk0-1" target="UViB7DaRL3VD-0iQ_Dk0-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-1" value="开始执行程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UViB7DaRL3VD-0iQ_Dk0-2" target="UViB7DaRL3VD-0iQ_Dk0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-2" value="初始化数组&lt;br&gt;number[] = {0x3F, 0x06, 0x5B, 0x4F, 0x66, 0x6D, 0x7D, 0x07, 0x7F, 0x6F};&lt;br&gt;调用数组number[n] 即可得到点亮n的8位二进制数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="360" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UViB7DaRL3VD-0iQ_Dk0-11" target="UViB7DaRL3VD-0iQ_Dk0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-11" value="定义函数Delay100US，其中循环7次，时间正好为0.1ms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UViB7DaRL3VD-0iQ_Dk0-12" target="UViB7DaRL3VD-0iQ_Dk0-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-12" value="定义函数LED_Display，有两个参数，第一个参数chosebit用于指定点亮某个LED，第二个参数wdata指定显示的数字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="590" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UViB7DaRL3VD-0iQ_Dk0-14" target="UViB7DaRL3VD-0iQ_Dk0-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-14" value="进入main函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UViB7DaRL3VD-0iQ_Dk0-16" target="UViB7DaRL3VD-0iQ_Dk0-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-16" value="将PORTD和PORTA都设置为输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="780" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UViB7DaRL3VD-0iQ_Dk0-18" target="UViB7DaRL3VD-0iQ_Dk0-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-18" value="将PORTD初始化为0x00即不显示任何数字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="845" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UViB7DaRL3VD-0iQ_Dk0-20" target="UViB7DaRL3VD-0iQ_Dk0-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-20" value="将PORTA初始化为0x00即没有灯亮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="915" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UViB7DaRL3VD-0iQ_Dk0-22" target="UViB7DaRL3VD-0iQ_Dk0-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-22" value="while（1）" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-24" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1000" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-25" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1050" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UViB7DaRL3VD-0iQ_Dk0-28" target="UViB7DaRL3VD-0iQ_Dk0-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-28" value="&lt;div&gt;LED_Display(1, 5)&lt;/div&gt;&lt;div&gt;右数第一个灯显示5&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="295" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UViB7DaRL3VD-0iQ_Dk0-30" target="UViB7DaRL3VD-0iQ_Dk0-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-30" value="进入LED_Display函数" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="358" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UViB7DaRL3VD-0iQ_Dk0-32" target="UViB7DaRL3VD-0iQ_Dk0-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-32" value="0x01左移chosebit-1位赋值给PORTA，指定将要点亮的LED" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="418" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UViB7DaRL3VD-0iQ_Dk0-34" target="UViB7DaRL3VD-0iQ_Dk0-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-34" value="PORTD =number[wdata]指定将要显示的数字" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="480" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UViB7DaRL3VD-0iQ_Dk0-36" target="UViB7DaRL3VD-0iQ_Dk0-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-36" value="调用Delay100US，延时0.1ms" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="538" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UViB7DaRL3VD-0iQ_Dk0-38" target="UViB7DaRL3VD-0iQ_Dk0-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-38" value="PORTA置为零，灭灯" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="598" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UViB7DaRL3VD-0iQ_Dk0-40" target="UViB7DaRL3VD-0iQ_Dk0-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="1120" />
+              <mxPoint x="360" y="1120" />
+              <mxPoint x="360" y="980" />
+              <mxPoint x="450" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UViB7DaRL3VD-0iQ_Dk0-40" value="&lt;div&gt;LED_Display(2, 4);&lt;/div&gt;&lt;div&gt;LED_Display(3, 3);&lt;/div&gt;&lt;div&gt;LED_Display(4, 2);&lt;/div&gt;&lt;div&gt;LED_Display(5, 1);&lt;/div&gt;&lt;div&gt;LED_Display(6, 0);&lt;/div&gt;&lt;div&gt;从右到左依次点亮“43210”&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="678" width="130" height="112" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
